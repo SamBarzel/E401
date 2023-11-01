@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gift Store</string>
+    <string name="texto01">Bienveido</string>
+    <string name="hint01">Correo Electronico</string>
+    <string name="hint02">Contraseña</string>
+    <string name="boton01">Ingresar</string>
+    <string name="boton02">Olvidaste tu contraseña</string>
+    <string name="boton03">No estoy registrado!!</string>
+</resources>
